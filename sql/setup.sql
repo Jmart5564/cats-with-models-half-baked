@@ -12,7 +12,7 @@ CREATE table cats (
     isSidekick BOOLEAN NOT NULL 
 );
 
-INSERT INTO cats (name, type, ) VALUES
+INSERT INTO cats (name, type, url, year, lives, isSidekick) VALUES
 (
     'Felix',
     'Tuxedo',
